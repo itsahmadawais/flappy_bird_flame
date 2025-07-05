@@ -21,8 +21,8 @@ A visually engaging, cross-platform Flappy Bird clone built with the [Flame](htt
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd flame_game
+   git clone https://github.com/itsahmadawais/flappy_bird_flame.git
+   cd flappy_bird_flame
    ```
 2. **Install dependencies:**
    ```sh
